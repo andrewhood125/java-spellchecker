@@ -1,14 +1,22 @@
 java-spellchecker
 =================
 
-Return a list of suggestions for a misspelled word<br>
+Current status: Complete. No longer being developed. 
+
+Return a list of suggestions for a misspelled word
+
 -Version 0.3  
-````Breaking out suggest1,2 and 3 methods to accept LinkedList<String> corrections and a wrong word.````<br>
+
+````Breaking out suggest1,2 and 3 methods to accept LinkedList<String> corrections and a wrong word.````
+
 -Version 0.2
-````Breaking out the correct method to Omission, Swap, Single Letter and Add a letter.````<br>
-````Adding the +All methods.````<br>
+
+````Breaking out the correct method to Omission, Swap, Single Letter and Add a letter.````
+````Adding the +All methods.````
+
 -Version 0.1
-````This is the initial build and design of the Suggest class.````<br>
+
+````This is the initial build and design of the Suggest class.````
 
 
 Getting Started
